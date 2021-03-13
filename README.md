@@ -17,4 +17,3 @@ Description : This is woongil's personal project for managing daily schedule and
 4. Choose Framework :
 
    - ##### Use React.js, Node.js
-
